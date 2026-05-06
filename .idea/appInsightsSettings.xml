@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.kkn.vaksinasisapi" />
+                  <option name="mobileSdkAppId" value="1:213446750384:android:3915cd498f5791352d8b75" />
+                  <option name="projectId" value="vaksina-sisapi" />
+                  <option name="projectNumber" value="213446750384" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
