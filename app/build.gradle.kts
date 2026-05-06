@@ -64,13 +64,10 @@ dependencies {
     implementation(libs.google.gms.location)
     implementation(libs.accompanist.permissions)
 
-    implementation("com.google.firebase:firebase-storage")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.10.2")
-
-
     implementation(libs.androidx.runtime)
     implementation(libs.androidx.lifecycle.runtime.compose)
     implementation(libs.firebase.firestore.ktx)
+    implementation(libs.googleid)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
