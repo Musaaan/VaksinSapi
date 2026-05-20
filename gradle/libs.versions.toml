@@ -19,7 +19,7 @@ googleServices = "4.4.4"
 lifecycleVMCompose = "2.10.0"
 runtime = "1.11.0"
 firebaseFirestoreKtx = "26.2.0"
-coroutines = "1.7.3"
+coroutines = "1.10.2"
 googleid = "1.2.0"
 
 [libraries]
